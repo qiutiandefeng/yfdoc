@@ -3,6 +3,7 @@ import com.yf.boot.base.api.api.ApiError;
 import com.yf.boot.base.api.exception.ServiceException;
 import com.yf.document.modules.sys.user.dto.response.SysUserLoginDTO;
 import org.apache.shiro.SecurityUtils;
+
 /**
  * 用户静态工具类
  * @author bool
