@@ -51,10 +51,9 @@ LibreOffice  [点此下载](https://yf-commons-files.oss-cn-beijing.aliyuncs.com
 7、管理员账号密码：admin/admin 学员账号：student/student
 
 注意：运行的时候运行包所在目录不能包含中文目录，会导致LibreOffice启动失败。
-     （快速运行的jar包在官方QQ群(537163131)文件的开发部署文档.zip中下载）
 
 # 其它支持
-QQ交流群：537163131      
+官方QQ交流群：537163131      
 邮箱：626264481@qq.com   
 手机：18710213152    
 网站：https://www.jeedocm.com/?plan=githubygq
