@@ -9,7 +9,6 @@ import org.apache.shiro.SecurityUtils;
  */
 public class UserUtils {
 
-
     /**
      * 获取用户信息
      * @param throwable
