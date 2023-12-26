@@ -7,7 +7,7 @@
 
 商业版本：https://doc.yfhl.net/
 
-官方网站：https://www.jeedocm.com/?plan=githubygq
+官方网站：https://www.jeedocm.com?plan=ghdoc
 
 安装视频：https://www.ixigua.com/7141227222257533471?utm_source=xiguastudio
 
