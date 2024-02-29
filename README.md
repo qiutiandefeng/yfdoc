@@ -1,10 +1,3 @@
- 云帆文档系统 开源版
-
-# 项目演示
-开源版本：https://lite-doc.yfhl.net/
-
-管理账号：admin/admin 
-
 商业版本：https://doc.yfhl.net/
 
 官方网站：https://www.jeedocm.com?plan=ghdoc
